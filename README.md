@@ -101,9 +101,7 @@ An offline-first, multimodal medical assistant powered by **Gemma 4**, designed 
 ---
 
 ## 🌱 Currently
-
-- 🔨 Building **NeuralOps** — autonomous SRE reasoning agent for Microsoft Agents League (Azure Foundry IQ)
-- 📖 Deepening expertise in LLM agent orchestration & edge-AI deployment
+- 📖 Deepening expertise in ML/DL, LLM agent orchestration and edge-AI deployment
 
 ---
 
