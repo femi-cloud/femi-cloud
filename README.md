@@ -76,15 +76,6 @@ An offline-first, multimodal medical assistant powered by **Gemma 4**, designed 
 
 ---
 
-### 🛒 [ShelfSense](https://devpost.com/femi13sanya)
-> AI-powered shelf inspection & stock monitoring — Google Cloud Hackathon
-
-Real-time shelf analysis system for local small businesses using **YOLOv8** and **Cloud Vision API**. Sends WhatsApp alerts on stock anomalies, with Stripe-powered monetization and a FastAPI backend on Cloud Run.
-
-`YOLOv8` `Cloud Vision API` `Vertex AI` `FastAPI` `Cloud Run` `WhatsApp API` `Stripe`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,7 +90,6 @@ Real-time shelf analysis system for local small businesses using **YOLOv8** and 
 
 - 🔨 Building **NeuralOps** — autonomous SRE reasoning agent for Microsoft Agents League (Azure Foundry IQ)
 - 📖 Deepening expertise in LLM agent orchestration & edge-AI deployment
-- 🎯 Looking to collaborate on impactful AI projects — especially anything that matters in Africa
 
 ---
 
