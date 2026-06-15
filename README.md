@@ -6,7 +6,7 @@
   <br/>
 
   <a href="https://github.com/femi-cloud">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Web+Dev+%C3%97+AI+%C3%97+UI%2FUX;AI%2FML+Engineer+%C2%B7+Full-Stack+Builder;Hackathon+Specialist+%C2%B7+Builder+AI-first" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Web+Dev+%C3%97+AI+%C3%97+UI%2FUX;AI%2FML+Engineer+%C2%B7+Full-Stack+Builder;Builder+AI-first" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,11 +14,9 @@
 
 ## 🧠 About Me
 
-Passionate about AI, computer vision, and autonomous agents — I build end-to-end intelligent systems that **think, act, and repair themselves**. Based in Abomey-Calavi, Bénin 🇧🇯, I compete and ship solo in international hackathons, delivering full-stack AI products under pressure.
+I love building things that solve real problems — from AI agents to mobile apps, always learning, always shipping.
 
-> *My agents fix production while you sleep.*
-
-Always learning. Always building.
+Based in Abomey-Calavi, Bénin 🇧🇯
 
 🗣️ French & English &nbsp;|&nbsp; 📚 Manga reader &nbsp;|&nbsp; 🎨 UI/UX enthusiast
 
@@ -26,33 +24,59 @@ Always learning. Always building.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%"/>
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>Kotlin</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>SQL</td>
+</tr></table>
 
 **AI / ML**
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFEA?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma-34A853?style=for-the-badge&logo=google&logoColor=white)
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="40"/><br/>OpenCV</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br/>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br/>PyTorch</td>
+<td align="center"><img src="https://img.shields.io/badge/YOLOv8-00FFEA?style=flat-square&logo=yolo&logoColor=black" height="40"/><br/>YOLOv8</td>
+<td align="center"><img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" height="40"/><br/>MediaPipe</td>
+<td align="center"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" height="40"/><br/>Gemini</td>
+<td align="center"><img src="https://img.shields.io/badge/Gemma_4-34A853?style=flat-square&logo=google&logoColor=white" height="40"/><br/>Gemma 4</td>
+</tr></table>
 
 **Web & Backend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="40"/><br/>Vite</td>
+</tr></table>
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="40"/><br/>Azure</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="40"/><br/>GCP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+</tr></table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling" width="100%"/>
+
+</div>
 
 ---
 
@@ -76,16 +100,6 @@ An offline-first, multimodal medical assistant powered by **Gemma 4**, designed 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=femi-cloud&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔨 Building **NeuralOps** — autonomous SRE reasoning agent for Microsoft Agents League (Azure Foundry IQ)
@@ -97,15 +111,35 @@ An offline-first, multimodal medical assistant powered by **Gemma 4**, designed 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fèmi-sanya-481277380/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/femi13sanya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:femi13sanya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/femi-cloud)
+<table><tr>
+<td align="center">
+  <a href="https://www.linkedin.com/in/f%C3%A8mi-sanya-481277380/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br/>
+    
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/femi-cloud">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+    
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:femi13sanya@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/><br/>
+   
+  </a>
+</td>
+<td align="center">
+  <a href="https://devpost.com/femi13sanya">
+    <img src="https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="48"/><br/>
+    
+  </a>
+</td>
+</tr></table>
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=femi-cloud&color=6E40C9&style=flat-square" alt="Profile views" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=femi-cloud&color=6E40C9&style=flat-square" alt="Profile views" />
 </div>
